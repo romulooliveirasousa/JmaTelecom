@@ -115,7 +115,7 @@
         <div class="col-md-6 text-center">
             <br>
             <br><br><br><br><br>
-            <img class="img-responsive" src="midia/areadeatuacao.png">
+            <iframe src="https://www.google.com/maps/d/embed?mid=18a11FkCzsQV_laWiESa-rHWay0g8Y16n" width="640" height="480"></iframe>
         </div>
         <div class="col-md-5 col-md-offset-1">
             <h2>Área de <strong>Atuação</strong></h2>
