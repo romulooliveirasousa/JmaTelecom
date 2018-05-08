@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Sulnet </title>
+    <title>J.M.A Telecom </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=no">
     <link href="css/css.css" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
@@ -57,8 +57,8 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="index.php" title="Sulnet">
-            <img src="imagens/logo.jpeg="Sulnet" class="img-responsive">
+        <a class="navbar-brand" href="index.php" title="J.M.A Telecom">
+            <img src="imagens/logo.jpeg" alt="J.M.A Telecom" class="img-responsive">
         </a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -228,7 +228,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3">
-                <img src="imagens/logo-tema-padrao.png" class="brand"/>
+                <img src="imagens/logo.jpeg" class="brand"/>
                 Desde 2003, aproximamos pessoas por meio de serviços de alta qualidade, oferecendo soluções inteligentes para as mais variadas necessidades.
 
                 <br /><br />
@@ -276,7 +276,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                2017 Todos os Direitos Reservados - Sulnet </div>
+                2017 Todos os Direitos Reservados - J.M.A Telecom
+            </div>
         </div>
     </div>
 </div>

@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Sulnet </title>
+    <title>J.M.A Telecom </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=no">
     <link href="css/css.css" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
@@ -22,13 +22,13 @@
 <body>
 <div class="topo bg-azul">
     <div class="col-md-6 col-sm-12">
-        <a href="#" class="amarelo plano-topo">
+        <a href="#" class="azul plano-topo">
             Para Você Urbano
         </a> <span> | </span>
-        <a href="#" class="verde plano-topo">
+        <a href="#" class="azul plano-topo">
             Para Você Rural
         </a> <span> | </span>
-        <a href="#" class="vermelho plano-topo">
+        <a href="#" class="azul plano-topo">
             Para Sua Empresa
         </a>
     </div>
@@ -57,8 +57,8 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="index.php" title="Sulnet">
-            <img src="imagens/logo.jpeg" alt="Sulnet" class="img-responsive">
+        <a class="navbar-brand" href="index.php" title="J.M.A Telecom">
+            <img src="imagens/logo.jpeg" alt="J.M.A Telecom" class="img-responsive">
         </a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -113,16 +113,16 @@
 </div>
 <!--  -->
 <div class="divisor">
-    <div class="col-md-4 bg-verde"></div>
-    <div class="col-md-4 bg-vermelho"></div>
-    <div class="col-md-4 bg-amarelo"></div>
+    <div class="col-md-4 bg-azul"></div>
+    <div class="col-md-4 bg-azul"></div>
+    <div class="col-md-4 bg-azul"></div>
 </div>
 <div class="container">
 
     <div class="row">
 
         <div class="col-md-9 conteudo contato">
-            <h3 class="vermelho">
+            <h3 class="azul">
                 Fale Conosco
             </h3>
 
@@ -168,7 +168,7 @@
 
                 </p>
 
-                <button class="btn btn-default botao pull-right bg-verde" type="submit">ENVIAR</button>
+                <button class="btn btn-default botao pull-right bg-azul" type="submit">ENVIAR</button>
                 <br>
             </form>
 
@@ -178,27 +178,27 @@
 
 
         <div class="col-md-3 conteudo contato">
-            <h3 class="vermelho">Canais de Atendimento           </h3>
+            <h3 class="azul">Canais de Atendimento           </h3>
 
 
             <div class="row">
 
                 <div class="clearfix"></div>
                 <div class="col-md-12"><br>
-                    <span class="vermelho"><strong>Nosso canal de Comunicação com Você!</strong></span>
+                    <span class="azul"><strong>Nosso canal de Comunicação com Você!</strong></span>
                     <strong>(63) 3602 1385 <br></strong>
                     <br><br>
-                    <span class="vermelho"><strong>Temos Atendimento pelo Whatsapp</strong></span><br>
+                    <span class="azul"><strong>Temos Atendimento pelo Whatsapp</strong></span><br>
                     <strong>(63) 9 84031425</strong><br>
 
                     <br>
 
 
                     <br>
-                    <a href="" class="externo bg-amarelo social facebook">
+                    <a href="" class="externo bg-azul social facebook">
                         <i class="fa fa-facebook" aria-hidden="true"></i>
                     </a>
-                    <a href="" class="externo bg-amarelo social youtube">
+                    <a href="" class="externo bg-azul social youtube">
                         <i class="fa fa-youtube" aria-hidden="true"></i>
                     </a>
                 </div>
@@ -224,9 +224,9 @@
                                     </div></div><div style="border-top: 1px solid rgb(204, 204, 204); margin-top: 9px; padding: 6px; display: none; visibility: hidden; font-size: 13px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; font-family: Roboto,Arial;"><a href="" target="_blank" style="cursor: pointer; color: rgb(66, 127, 237); text-decoration: none;">Visualize no Google Maps</a></div></div><div style="width: 13px; height: 13px; overflow: hidden; position: absolute; opacity: 0.7; right: 12px; top: 10px; z-index: 10000; cursor: pointer;"><img style="position: absolute; left: -2px; top: -336px; width: 59px; height: 492px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" src="midia/mapcnt6.png" draggable="false"></div></div></div></div></div><div style="margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a style="position: static; overflow: visible; float: none; display: inline;" target="_blank" href="https://maps.google.com/maps?ll=-27.356708,-53.396316&amp;z=15&amp;t=m&amp;hl=pt-BR&amp;gl=US&amp;mapclient=apiv3" title="Clique para ver esta área no Google Maps"><div style="width: 66px; height: 26px; cursor: pointer;"><img style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" src="midia/google4.png" draggable="false"></div></a></div><div style="background-color: white; padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto,Arial,sans-serif; color: rgb(34, 34, 34); box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.2); z-index: 10000002; display: none; width: 256px; height: 148px; position: absolute; left: 525px; top: 133px;"><div style="padding: 0px 0px 10px; font-size: 16px;">Dados do mapa</div><div style="font-size: 13px;">Dados cartográficos ©2017 Google</div><div style="width: 13px; height: 13px; overflow: hidden; position: absolute; opacity: 0.7; right: 12px; top: 12px; z-index: 10000; cursor: pointer;"><img style="position: absolute; left: -2px; top: -336px; width: 59px; height: 492px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" src="midia/mapcnt6.png" draggable="false"></div></div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 188px; bottom: 0px; width: 169px;"><div draggable="false" style="-moz-user-select: none; height: 14px; line-height: 14px;" class="gm-style-cc"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="color: rgb(68, 68, 68); text-decoration: none; cursor: pointer; display: none;">Dados do mapa</a><span style="">Dados cartográficos ©2017 Google</span></div></div></div><div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;"><div style="font-family: Roboto,Arial,sans-serif; font-size: 11px; color: rgb(68, 68, 68); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Dados cartográficos ©2017 Google</div></div><div class="gmnoprint gm-style-cc" style="z-index: 1000001; -moz-user-select: none; height: 14px; line-height: 14px; position: absolute; right: 110px; bottom: 0px;" draggable="false"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);" href="https://www.google.com/intl/pt-BR_US/help/terms_maps.html" target="_blank">Termos de Uso</a></div></div><div style="cursor: pointer; width: 25px; height: 25px; overflow: hidden; display: none; margin: 10px 14px; position: absolute; top: 0px; right: 0px;"><img style="position: absolute; left: -52px; top: -86px; width: 164px; height: 175px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" src="midia/sv9.png" draggable="false" class="gm-fullscreen-control"></div><div draggable="false" style="-moz-user-select: none; height: 14px; line-height: 14px; position: absolute; right: 0px; bottom: 0px;" class="gm-style-cc"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_new" title="Informar erros no mapa ou nas imagens para o Google" style="font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;" href="https://www.google.com/maps/@-27.356708,-53.396316,15z/data=%2110m1%211e1%2112b1?source=apiv3&amp;rapsrc=apiv3">Informar erro no mapa</a></div></div></div></div></div>
 
 <div class="divisor">
-    <div class="col-md-4 bg-verde"></div>
-    <div class="col-md-4 bg-vermelho"></div>
-    <div class="col-md-4 bg-amarelo"></div>
+    <div class="col-md-4 bg-azul"></div>
+    <div class="col-md-4 bg-azul"></div>
+    <div class="col-md-4 bg-azul"></div>
 
 </div>
 
@@ -234,25 +234,25 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3">
-                <img src="imagens/logo-tema-padrao.png" class="brand"/>
+                <img src="imagens/logo.jpeg" class="brand"/>
                 Desde 2003, aproximamos pessoas por meio de serviços de alta qualidade, oferecendo soluções inteligentes para as mais variadas necessidades.
 
                 <br /><br />
-                <a href="#" class="externo bg-amarelo social facebook">
+                <a href="#" class="externo bg-azul social facebook">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                 </a>
-                <a href="#" class="externo bg-amarelo social youtube">
+                <a href="#" class="externo bg-azul social youtube">
                     <i class="fa fa-youtube" aria-hidden="true"></i>
                 </a>
             </div>
             <div class="col-md-3">
-                <h2 class="verde">Institucional           </h2>
+                <h2 class="azul">Institucional           </h2>
                 <a href="#"><i class="icone arrow-right"></i>Quem Somos</a><br/>
                 <a href="atuacao.htm"><i class="icone arrow-right"></i>Área de Atuação</a><br/>
 
             </div>
             <div class="col-md-3">
-                <h2 class="verde">Serviços           </h2>
+                <h2 class="azul">Serviços           </h2>
                 <a href="#"><i class="icone arrow-right"></i>Para Você Urbano</a><br/>
                 <a href="#"><i class="icone arrow-right"></i>Para Você Rural</a><br/>
                 <a href="#"><i class="icone arrow-right"></i>Para Sua Empresa</a><br/>
@@ -260,7 +260,7 @@
 
             </div>
             <div class="col-md-3">
-                <h2 class="vermelho">Entre em Contato           </h2>
+                <h2 class="azul">Entre em Contato           </h2>
 
                 <div class="row">
 
@@ -278,11 +278,13 @@
         </div>
     </div>
 </div>
+
 <div class="copyright">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                2017 Todos os Direitos Reservados - Sulnet </div>
+                2017 Todos os Direitos Reservados - J.M.A Telecom
+            </div>
         </div>
     </div>
 </div>

@@ -20,13 +20,13 @@
 <div class="topo bg-azul">
 
     <div class="col-md-6 col-sm-12">
-        <a href="#" class="amarelo plano-topo">
+        <a href="#" class="azul plano-topo">
             Para Você Urbano
         </a> <span> | </span>
-        <a href="#" class="verde plano-topo">
+        <a href="#" class="azul plano-topo">
             Para Você Rural
         </a> <span> | </span>
-        <a href="#" class="vermelho plano-topo">
+        <a href="#" class="azul plano-topo">
             Para Sua Empresa
         </a>
 
@@ -250,7 +250,7 @@
         <div class="col-md-12">
             <div class="titulo azul text-center">
                 <span>
-                    Nossos  <strong>Planos</strong>
+                    Nossos <strong>Planos</strong>
                 </span>
             </div>
         </div>
@@ -325,7 +325,7 @@
 
             </p>
 
-            <div class="verde">
+            <div class="azul">
                 <a href="#" class="saiba-mais-full bg-azul text-center">Saiba mais sobre as regiões que atendemos</a>
             </div>
         </div>
