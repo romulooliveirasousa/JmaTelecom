@@ -164,7 +164,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3">
-                <img src="imagens/logo-tema-padrao.png" class="brand"/>
+                <img src="imagens/logo.jpeg" class="brand"/>
                 Desde 2003, aproximamos pessoas por meio de serviços de alta qualidade, oferecendo soluções inteligentes para as mais variadas necessidades.
 
                 <br /><br />

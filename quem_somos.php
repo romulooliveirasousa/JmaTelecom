@@ -58,7 +58,7 @@
             <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="index.php" title="Sulnet">
-            <img src="imagens/logo-tema-padrao.png" alt="Sulnet" class="img-responsive">
+            <img src="imagens/logo.jpeg="Sulnet" class="img-responsive">
         </a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
