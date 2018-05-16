@@ -311,8 +311,7 @@
         <div class="arrow-down"></div>
 
         <div class="col-md-6 text-center">
-            <iframe src="https://www.google.com/maps/d/embed?mid=18a11FkCzsQV_laWiESa-rHWay0g8Y16n" width="640"
-                    height="480"></iframe>
+            <iframe src="https://www.google.com/maps/d/u/1/embed?mid=18a11FkCzsQV_laWiESa-rHWay0g8Y16n" width="640" height="480"></iframe>
         </div>
 
 
