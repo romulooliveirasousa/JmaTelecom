@@ -85,7 +85,7 @@
 
 
                 <li class="pull-right">
-                    <a href="http://www.sntprovedores.com.br/central.php" class="externo">
+                    <a href="#" class="externo">
                         <i class="icone webmail"></i><strong>Área do Cliente</strong></a>
                 </li>
 
@@ -186,10 +186,10 @@
                 <div class="clearfix"></div>
                 <div class="col-md-12"><br>
                     <span class="azul"><strong>Nosso canal de Comunicação com Você!</strong></span>
-                    <strong>(63) 3602 1385 <br></strong>
+                    <strong>(63) 99289 - 1695 <br></strong>
                     <br><br>
                     <span class="azul"><strong>Temos Atendimento pelo Whatsapp</strong></span><br>
-                    <strong>(63) 9 84031425</strong><br>
+                    <strong>(63) 99289-1695</strong><br>
 
                     <br>
 
@@ -266,11 +266,11 @@
 
                     <div class="col-md-9">
 
-                        <strong>(63) 3602 - 1385</strong><br
+                        <strong>(63) 99289 -1695</strong><br
                     </div>
-
-                    Rua Barão do Rio Branco Nº 554
-                    Paraíso do Tocantins - TO
+                    Quadra 408 Norte Alameda 05  QI 04 Lote 04<br>
+                    Plano Diretor Norte<br>
+                    Palmas - TO
                     <div class="clear-fix"></div>
                 </div>
 
@@ -283,7 +283,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                2017 Todos os Direitos Reservados - J.M.A Telecom
+                2018 Todos os Direitos Reservados - J.M.A Telecom
             </div>
         </div>
     </div>

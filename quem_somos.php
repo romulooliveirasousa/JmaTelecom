@@ -85,7 +85,7 @@
 
 
                 <li class="pull-right">
-                    <a href="http://www.sntprovedores.com.br/central.php" class="externo">
+                    <a href="#" class="externo">
                         <i class="icone webmail"></i><strong>Área do Cliente</strong></a>
                 </li>
 
@@ -126,7 +126,7 @@
             <h4></h4>
             <div>
                 <p>&nbsp;&nbsp;&nbsp;&nbsp;Somos um ISP que Atende Clientes Residênciais e Empresariais
-                    na região do Vale do Araguaia,Fornecendo um Serviço de Qualidade, com Rapidez e Responsabilidade.
+                    na região Sudeste do estado do Tocantins,Fornecendo um Serviço de Qualidade, com Rapidez e Responsabilidade.
                     Trabalhamos com os melhores equipamentos e com a melhor equipe técnica,
                     para oferecermos aos clientes serviços de qualidade com mais segurança e
                     conforto ao navegar por esse mundo de informações. &nbsp;&nbsp;
@@ -139,7 +139,7 @@
                     <div>
                         <br></div>
                     <div>
-                        &nbsp;&nbsp;&nbspSer Uma Empresa Reconhecida no Vale do Araguaia Como Uma das
+                        &nbsp;&nbsp;&nbspSer Uma Empresa Reconhecida no Sudeste do Tocantins Como Uma das
                         Melhores Empresas Prestadoras de Serviços de Internet.
                     </div>
 
@@ -260,11 +260,11 @@
 
                     <div class="col-md-9">
 
-                        <strong>(63) 3602 - 1385</strong><br
+                        <strong>(63) 99289 -1695</strong><br
                     </div>
-
-                    Rua Barão do Rio Branco Nº 554
-                    Paraíso do Tocantins - TO
+                    Quadra 408 Norte Alameda 05  QI 04 Lote 04<br>
+                    Plano Diretor Norte<br>
+                    Palmas - TO
                     <div class="clear-fix"></div>
                 </div>
 
@@ -276,7 +276,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                2017 Todos os Direitos Reservados - J.M.A Telecom
+                2018 Todos os Direitos Reservados - J.M.A Telecom
             </div>
         </div>
     </div>

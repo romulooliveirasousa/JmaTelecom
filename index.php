@@ -257,14 +257,13 @@
         <div class="col-md-4 text-center">
             <div class='package'>
                 <div class='name'>Avançado</div>
-                <div class='price'>R$ 85,00</div>
-                <div class='trial'>2 MB</div>
+                <div class='price'>R$ 150,00</div>
+                <div class='trial'>5 MB</div>
                 <hr>
                 <ul>
-                    <li><span class="fa fa-desktop"></span> Navegação: 2 MEGA</li>
-                    <li><span class="fa fa-download"></span> Download: 512kbps</li>
-                    <li><span class="fa fa-upload"></span> Upload: 128kbps</li>
-                    <li><span class="fa fa-exchange"></span> Tx Transf: até 50 KB/s</li>
+                    <li><span class="fa fa-desktop"></span> Navegação: 5 MEGA</li>
+                    <li><span class="fa fa-download"></span> Download: 5 MEGA</li>
+                    <li><span class="fa fa-upload"></span> Upload: 1 MEGA</li>
                     <li><span class="fa fa-globe"></span> Suporte Ilimitado</li>
                 </ul>
             </div>
@@ -273,14 +272,13 @@
         <div class="col-md-4 text-center">
             <div class='package'>
                 <div class='name'>Profissional</div>
-                <div class='price'>R$ 99,00</div>
-                <div class='trial'>3 MB</div>
+                <div class='price'>R$ 250,00</div>
+                <div class='trial'>10 MB</div>
                 <hr>
                 <ul>
-                    <li><span class="fa fa-desktop"></span> Navegação: 3 MEGA</li>
-                    <li><span class="fa fa-download"></span> Download: 512kbps</li>
-                    <li><span class="fa fa-upload"></span> Upload: 128kbps</li>
-                    <li><span class="fa fa-exchange"></span> Tx Transf: até 50 KB/s</li>
+                    <li><span class="fa fa-desktop"></span> Navegação: 10 MEGA</li>
+                    <li><span class="fa fa-download"></span> Download: 10 MEGA</li>
+                    <li><span class="fa fa-upload"></span> Upload: 2 MEGA</li>
                     <li><span class="fa fa-globe"></span> Suporte Ilimitado</li>
                 </ul>
             </div>
@@ -288,14 +286,13 @@
         <div class="col-md-4 text-center">
             <div class='package'>
                 <div class='name'>Exclusivo</div>
-                <div class='price'>R$ 160,00</div>
-                <div class='trial'>5 MB</div>
+                <div class='price'>R$ 300,00</div>
+                <div class='trial'>15 MB</div>
                 <hr>
                 <ul>
-                    <li><span class="fa fa-desktop"></span> Navegação: 5 MEGA</li>
-                    <li><span class="fa fa-download"></span> Download: 512kbps</li>
-                    <li><span class="fa fa-upload"></span> Upload: 128kbps</li>
-                    <li><span class="fa fa-exchange"></span> Tx Transf: até 50 KB/s</li>
+                    <li><span class="fa fa-desktop"></span> Navegação: 15 MEGA</li>
+                    <li><span class="fa fa-download"></span> Download: 15 MEGA</li>
+                    <li><span class="fa fa-upload"></span> Upload: 2 MEGA</li>
                     <li><span class="fa fa-globe"></span> Suporte Ilimitado</li>
                 </ul>
             </div>
@@ -345,7 +342,7 @@
         <div class="row">
             <div class="col-md-3">
                 <img src="imagens/logo.jpeg" class="brand"/>
-                Desde 2003, aproximamos pessoas por meio de serviços de alta qualidade, oferecendo soluções inteligentes
+                Desde 2009, aproximamos pessoas por meio de serviços de alta qualidade, oferecendo soluções inteligentes
                 para as mais variadas necessidades.
 
                 <br/><br/>
@@ -395,7 +392,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                2017 Todos os Direitos Reservados - J.M.A Telecom
+                2018 Todos os Direitos Reservados - J.M.A Telecom
             </div>
         </div>
     </div>
